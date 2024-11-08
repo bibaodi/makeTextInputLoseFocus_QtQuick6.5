@@ -4,6 +4,13 @@ eton@241108
 - V1.0:
  first editon
 
+## Effects
+1. focus in text field
+![focus in text field](imgs/focus-in-textfield.png)
+
+2. when click , text field lose focus.
+![focus-remove-from-textfield-when-click.png](imgs/focus-remove-from-textfield-when-click.png)
+
 ## ENV:
  - qt6.5
  - Debian12	
